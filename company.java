@@ -1,8 +1,9 @@
 package sell_patlak;
 
 public class Company{
-	private TreeSet products;
-	
+	private LinkedList products;
+	private String name = "IBM";
+
 	public Company(){
 		
 	}

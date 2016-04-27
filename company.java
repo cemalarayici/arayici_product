@@ -1,7 +1,7 @@
 package sell_patlak;
 
 public class Company{
-	private ArrayList company;
+	private LinkedList products;
 	private String name = "IBM";
 	
 	public Company(){
